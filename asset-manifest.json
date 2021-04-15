@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cursor.edu-hw-react-classes/static/css/main.17a2bef6.chunk.css",
+    "main.js": "/cursor.edu-hw-react-classes/static/js/main.5fde4518.chunk.js",
+    "main.js.map": "/cursor.edu-hw-react-classes/static/js/main.5fde4518.chunk.js.map",
+    "runtime-main.js": "/cursor.edu-hw-react-classes/static/js/runtime-main.725057b4.js",
+    "runtime-main.js.map": "/cursor.edu-hw-react-classes/static/js/runtime-main.725057b4.js.map",
+    "static/js/2.b725958f.chunk.js": "/cursor.edu-hw-react-classes/static/js/2.b725958f.chunk.js",
+    "static/js/2.b725958f.chunk.js.map": "/cursor.edu-hw-react-classes/static/js/2.b725958f.chunk.js.map",
+    "static/js/3.a1f541f8.chunk.js": "/cursor.edu-hw-react-classes/static/js/3.a1f541f8.chunk.js",
+    "static/js/3.a1f541f8.chunk.js.map": "/cursor.edu-hw-react-classes/static/js/3.a1f541f8.chunk.js.map",
+    "index.html": "/cursor.edu-hw-react-classes/index.html",
+    "static/css/main.17a2bef6.chunk.css.map": "/cursor.edu-hw-react-classes/static/css/main.17a2bef6.chunk.css.map",
+    "static/js/2.b725958f.chunk.js.LICENSE.txt": "/cursor.edu-hw-react-classes/static/js/2.b725958f.chunk.js.LICENSE.txt",
+    "static/media/anon.73be987b.png": "/cursor.edu-hw-react-classes/static/media/anon.73be987b.png",
+    "static/media/female.31945b0d.png": "/cursor.edu-hw-react-classes/static/media/female.31945b0d.png",
+    "static/media/male.a37b7f10.png": "/cursor.edu-hw-react-classes/static/media/male.a37b7f10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725057b4.js",
+    "static/js/2.b725958f.chunk.js",
+    "static/css/main.17a2bef6.chunk.css",
+    "static/js/main.5fde4518.chunk.js"
+  ]
+}
